@@ -1,0 +1,60 @@
+body {
+    background-color: #FFFFFF;
+    color: rgba(117, 117, 117, 1);
+
+}
+
+
+ul {
+    list-style: none;
+}
+
+.site-nav .link {
+    color: #212121;
+}
+
+.site-nav .link:hover,
+.site-nav .link:focus {
+color: #2196F3;
+}
+
+.site-nav .link.current {
+color: #2196F3;
+}
+
+
+.contacts .link {
+    color: #212121;
+}
+
+.contacts .link:hover,
+.contacts .link:focus {
+color: #2196F3;
+}
+
+.section-title{
+    color: #212121;
+}
+
+.button {
+    color: #FFFFFF;
+    background-color:  #2196F3;
+}
+
+.button-portfolio{
+    color: #212121;
+    background-color: #F5F4FA;
+}
+
+.button-portfolio:hover,
+.button-portfolio:focus {
+color:#FFFFFF;
+background-color: #2196F3;
+}
+
+
+/* #2196F3 */
+/* #212121 */
+/* #FFFFFF */
+/* #757575 */
+/* #2F303A */
