@@ -11,6 +11,11 @@ body {
     background-color: #FFFFFF;
     color: rgba(117, 117, 117, 1);
 font-family: Roboto, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 1,71;
+letter-spacing: 0.03em;
 }
 
 a { 
@@ -23,6 +28,11 @@ ul {
 
 .site-nav .link {
     color: #212121;
+    font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 1,14;
+letter-spacing: 0.02em;
 }
 
 .logo{
@@ -49,7 +59,12 @@ color: #2196F3;
 
 
 .contacts .link {
-    color: #212121;
+    color: #757575;
+    font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 1,14;
+letter-spacing: 0.02em;
 }
 
 .contacts .link:hover,
@@ -57,10 +72,66 @@ color: #2196F3;
 color: #2196F3;
 }
 
-.section-title{
-    color: #212121;
+.hero-title{
+    font-style: normal;
+font-weight: 900;
+font-size: 44px;
+line-height: 1,36;
+text-align: center;
+letter-spacing: 0.06em;
+text-transform: uppercase;
 }
 
+.section-title{
+    color: #212121;
+    font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 1,14x;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+}
+
+.hero-button{
+    color: #FFFFFF;
+    background-color:  #2196F3;
+    font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 1,87;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.06em;
+}
+
+.section-presentation{
+    color: #212121;
+    font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 1,17;
+text-align: center;
+letter-spacing: 0.03em;
+}
+
+.section-team{
+    color: #212121;
+    font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 1,19;
+text-align: center;
+letter-spacing: 0.03em;
+}
+
+.footer-contacts >a{
+  font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 1,71;
+letter-spacing: 0.03em;
+}
 .button {
     color: #FFFFFF;
     background-color:  #2196F3;
@@ -69,6 +140,12 @@ color: #2196F3;
 .button-portfolio{
     color: #212121;
     background-color: #F5F4FA;
+    font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 1,14px;
+letter-spacing: 0.02em;
+
 }
 
 .button-portfolio:hover,
